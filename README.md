@@ -48,7 +48,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 * **Olga Agafonova** - *Initial work*
 * **Ljeoma Ezeonyebuchi** - *Initial work*
 * **Divya** - *Initial work*
-* **Somayah Alharbi** - *Initial work*
+* **Somayah Alharbi**
 
 
 
